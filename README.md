@@ -3,7 +3,8 @@
 A simple API for managing reservations for The Last Hotel, in Cancun.
 
 ## How to Run
-- (Optional) Have a local MongoDB with default settings
+- Requires Java 9+
+- (Optional) Requires a local MongoDB with default settings
 - If you want to run with an embedded MongoDB:
     - Change the following line in `build.gradle` from:
       ```
